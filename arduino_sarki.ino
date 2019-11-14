@@ -1,4 +1,4 @@
-/* izmir marsı */
+
 /* Play Melody
  * -----------
  *
